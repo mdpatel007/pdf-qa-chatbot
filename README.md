@@ -4,8 +4,7 @@ A smart, Streamlit-powered chatbot that reads and answers questions from uploade
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it live](https://your-streamlit-app-url.com)  
-*(Replace with your actual Streamlit Cloud URL)*
+👉 [pdf-app-chatbot-e2ml8b7nnps7y8kwhy8pnz](https://pdf-app-chatbot-e2ml8b7nnps7y8kwhy8pnz.streamlit.app/)
 
 ---
 
