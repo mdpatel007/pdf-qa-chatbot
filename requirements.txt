@@ -4,3 +4,4 @@ langchain-community
 langchain-groq
 python-dotenv
 PyPDF2
+sentence-transformers
