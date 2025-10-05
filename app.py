@@ -13,7 +13,7 @@ from langchain.chains import create_retrieval_chain
 # --------------------------
 # API Key (Groq)
 # --------------------------
-api_key = "GROQ_API_KEY"
+api_key = st.secrets["GROQ_API_KEY"]
 
 if not api_key:
     st.error("⚠️ GROQ_API_KEY not found! Please set it as an environment variable.")
